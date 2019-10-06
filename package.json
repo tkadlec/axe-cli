@@ -43,7 +43,7 @@
     "fresh": "^0.5.1",
     "phantomjs-prebuilt": "^2.1.13",
     "selenium-webdriver": "^3.0.0",
-    "snyk": "^1.41.1",
+    "snyk": "^1.231.0",
     "superagent": "^3.7.0"
   },
   "snyk": true
