@@ -37,12 +37,12 @@
   "homepage": "https://github.com/dequelabs/axe-cli#readme",
   "dependencies": {
     "axe-core": "^2.4.1",
-    "axe-webdriverjs": "^1.1.5",
+    "axe-webdriverjs": "^2.0.1",
     "colors": "^1.1.2",
     "commander": "^2.9.0",
     "fresh": "^0.5.1",
     "phantomjs-prebuilt": "^2.1.13",
-    "selenium-webdriver": "^3.0.0",
+    "selenium-webdriver": "^4.1.0",
     "snyk": "^1.41.1",
     "superagent": "^3.7.0"
   },
